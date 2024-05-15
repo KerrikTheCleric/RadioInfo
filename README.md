@@ -18,4 +18,4 @@ All tests are run with:
 
     mvn test
 
-![Screenshot](https://git.cs.umu.se/dv16vgn/RadioInfo/raw/db95081c6f9779fd859978c8c0951106c9a33adc/src/main/resources/radio_info.png)
+![Screenshot](https://github.com/KerrikTheCleric/RadioInfo/blob/main/src/main/resources/radio_info.png)
