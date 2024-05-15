@@ -1,0 +1,23 @@
+-Fixade Maven så det går att skapa en korrekt JAR-fil.
+
+-Eliminerade att GUI låser sig.
+
+-La till tester.
+
+-Skapade en separat parser som tar InputSource istället för URLs.
+
+-La till cachning av data.
+
+-Updateringar nukar all data som inte ska uppdateras så det uppdateras
+ när man sen byter kanal.
+
+-Gjorde uppdateringar säkrare.
+
+
+Användargränssnitt - OK
+
+Tester - OK
+
+Objektorienterad design - Bra
+
+Systembeskrivning - OK

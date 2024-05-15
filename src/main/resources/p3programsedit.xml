@@ -1,0 +1,34 @@
+<sr>
+    <copyright>
+        Copyright Sveriges Radio 2017. All rights reserved.</copyright>
+    <pagination>
+        <page>1</page>
+        <size>10</size>
+        <totalhits>57</totalhits>
+        <totalpages>6</totalpages>
+        <nextpage>
+            http://api.sr.se/v2/scheduledepisodes?channelid=164</nextpage>
+    </pagination>
+    <schedule>
+        <scheduledepisode>
+            <episodeid>990667</episodeid>
+            <title>Ekonyheter</title>
+            <description>
+                Här hör du Ekots nyhetssändningar. Senaste nytt - dygnet runt, året om.</description>
+            <starttimeutc>2017-12-10T23:00:00Z</starttimeutc>
+            <endtimeutc>2017-12-10T23:02:00Z</endtimeutc>
+            <program id="4540" name="Ekot"/>
+            <channel id="164" name="P3"/>
+            <imageurl>
+                http://static-cdn.sr.se/sida/images/4540/3634468_2048_1152.jpg?preset=api-default-square</imageurl>
+            <imageurltemplate>
+                http://static-cdn.sr.se/sida/images/4540/3634468_2048_1152.jpg</imageurltemplate>
+        </scheduledepisode>
+        <scheduledepisode>
+            <episodeid>990668</episodeid>
+            <title>Vaken</title>
+            <subtitle>
+                med Robert Bendtlinder och Carolin Björnerhag</subtitle>
+            <description>
+                Musik, tävlingar och samtal. Ett program för dig som är vaken, helt enkelt.</description>
+            <starttimeutc>2017-12-10T23:02:00Z</starttimeutc><endtimeutc>2017-12-11T00:00:00Z</endtimeutc><program id="2689" name="Vaken med P3 P4"/><channel id="164" name="P3"/><imageurl>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg?preset=api-default-square</imageurl><imageurltemplate>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg</imageurltemplate></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Ekonyheter</title><description>Här hör du Ekots nyhetssändningar. Senaste nytt - dygnet runt, året om.</description><starttimeutc>2017-12-11T00:00:00Z</starttimeutc><endtimeutc>2017-12-11T00:02:00Z</endtimeutc><program id="4540" name="Ekot"/><channel id="164" name="P3"/></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Vaken</title><subtitle>med Robert Bendtlinder och Carolin Björnerhag</subtitle><description>Musik, tävlingar och samtal. Ett program för dig som är vaken, helt enkelt.</description><starttimeutc>2017-12-11T00:02:00Z</starttimeutc><endtimeutc>2017-12-11T01:00:00Z</endtimeutc><program id="2689" name="Vaken med P3  P4"/><channel id="164" name="P3"/><imageurl>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg?preset=api-default-square</imageurl><imageurltemplate>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg</imageurltemplate></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Ekonyheter</title><description>Här hör du Ekots nyhetssändningar. Senaste nytt - dygnet runt, året om.</description><starttimeutc>2017-12-11T01:00:00Z</starttimeutc><endtimeutc>2017-12-11T01:02:00Z</endtimeutc><program id="4540" name="Ekot"/><channel id="164" name="P3"/></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Vaken</title><subtitle>med Robert Bendtlinder och Carolin Björnerhag</subtitle><description>Musik, tävlingar och samtal. Ett program för dig som är vaken, helt enkelt.</description><starttimeutc>2017-12-11T01:02:00Z</starttimeutc><endtimeutc>2017-12-11T02:00:00Z</endtimeutc><program id="2689" name="Vaken med P3  P4"/><channel id="164" name="P3"/><imageurl>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg?preset=api-default-square</imageurl><imageurltemplate>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg</imageurltemplate></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Ekonyheter</title><description>Här hör du Ekots nyhetssändningar. Senaste nytt - dygnet runt, året om.</description><starttimeutc>2017-12-11T02:00:00Z</starttimeutc><endtimeutc>2017-12-11T02:02:00Z</endtimeutc><program id="4540" name="Ekot"/><channel id="164" name="P3"/></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Vaken</title><subtitle>med Robert Bendtlinder och Carolin Björnerhag</subtitle><description>Musik, tävlingar och samtal. Ett program för dig som är vaken, helt enkelt.</description><starttimeutc>2017-12-11T02:02:00Z</starttimeutc><endtimeutc>2017-12-11T03:00:00Z</endtimeutc><program id="2689" name="Vaken med P3  P4"/><channel id="164" name="P3"/><imageurl>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg?preset=api-default-square</imageurl><imageurltemplate>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg</imageurltemplate></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Ekonyheter</title><description>Här hör du Ekots nyhetssändningar. Senaste nytt - dygnet runt, året om.</description><starttimeutc>2017-12-11T03:00:00Z</starttimeutc><endtimeutc>2017-12-11T03:02:00Z</endtimeutc><program id="4540" name="Ekot"/><channel id="164" name="P3"/></scheduledepisode><scheduledepisode><episodeid>990668</episodeid><title>Vaken</title><subtitle>med Robert Bendtlinder och Carolin Björnerhag</subtitle><description>Musik, tävlingar och samtal. Ett program för dig som är vaken, helt enkelt.</description><starttimeutc>2017-12-11T03:02:00Z</starttimeutc><endtimeutc>2017-12-11T04:00:00Z</endtimeutc><program id="2689" name="Vaken med P3  P4"/><channel id="164" name="P3"/><imageurl>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg?preset=api-default-square</imageurl><imageurltemplate>http://static-cdn.sr.se/sida/images/2689/3430bf04-51d2-4818-a75d-a0355407cd2d.jpg</imageurltemplate></scheduledepisode></schedule></sr>
